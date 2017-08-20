@@ -1,0 +1,57 @@
+body {
+	font-size: 14px;
+	line-height: 24px;
+	font-family: "PTSans", sans-serif;
+	font-weight: bold;
+	background: black;
+}
+
+ul {
+	list-style: none;
+}
+
+.main-navigation a,
+.login-link {
+	font-size: 16px;
+	line-height: 20px;
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.features-title,
+.section-title {
+	font-size: 30px;
+	line-height: 42px;
+	text-transform: uppercase;
+}
+
+.features {
+	color: #f7f4f1;
+}
+
+.news,
+.gallery,
+.contacts,
+.appointment {
+	background: #f8f5f2;
+	color: #000000;
+}
+
+.main-footer {
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+	text-transform: uppercase;
+	background-color: #232323;
+}
+
+.main-footer a {
+	color: #ffffff;
+}
+
+.modal {
+	background: #f8f5f2;
+	color: #000000;
+	text-transform: uppercase;
+}
